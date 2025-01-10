@@ -2,7 +2,7 @@
 export PATH="/opt/homebrew/bin:$PATH"
 
 # shell appearance
-PS1="%F{57}%n%f@%F{118}%m%f %F{226}%1~%f %#"
+PS1="%F{57}%n%f@%F{118}%m%f %F{226}%1~%f %# "
 export CLICOLOR=1
 export LSCOLORS=GXFXCXDXBXEGEDABAGACED
 
